@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Xbox Series S",
+    "price": 250,
+    "thumbail": "https://compass-ssl.xbox.com/assets/b7/41/b7414f03-9878-4ed3-a9a4-b4ab8f19ca97.jpg?n=0202999-Hero-M.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Nintendo Switch",
+    "price": 300,
+    "thumbail": "https://m.media-amazon.com/images/I/61-PblYntsL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 3,
+    "title": "PlayStation 5 Digital Edition ",
+    "price": 399,
+    "thumbail": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6430/6430161_sd.jpg"
+  }
+]
