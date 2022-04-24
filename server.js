@@ -24,5 +24,8 @@ const getProducts = (res, random = false) => {
     .catch(err => res.send({'Error': err}))
 }
 
+app.get('/', (req, res) => { 
+  res.send('<h1>Bienvenidos</h1><a href="./productos">Productos</a><br/><a href="./productoRandom">Producto random</a>'); 
+});
 app.get('/productos', (req, res) => { getProducts(res) });
 app.get('/productoRandom', (req, res) => { getProducts(res, true) });
